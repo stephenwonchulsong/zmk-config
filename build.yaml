@@ -15,3 +15,9 @@
 include:
   - board: seeeduino_xiao_ble
     shield: hummingbird
+  - board: seeeduino_xiao_ble
+    shield: corne_left
+  - board: seeeduino_xiao_ble
+    shield: corne_right
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
